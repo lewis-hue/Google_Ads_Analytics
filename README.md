@@ -1,4 +1,4 @@
-# Product ANALYTICS
+# PRODUCT ANALYTICS
 ## Google Ads Analytics in Amplitude
 
 This project uses **Amplitude**, a leading **product analytics** tool, to optimize **Google Ads** campaigns by analyzing **user behavior** and **marketing analytics**. By tracking engagement data across platforms like **Google**, **YouTube**, and **Google Display Network**, we identify opportunities to improve conversions and cost efficiency. With **Amplitude**, we focus on actionable data, optimizing the customer journey, and aligning marketing efforts with measurable business impact to drive **customer lifetime value**.
