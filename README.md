@@ -15,23 +15,36 @@ The first step involved integrating my Google Ads account with Amplitude, enabli
 
 In this project, Amplitude’s marketing analytics settings are configured to optimize Google Ads campaigns by analyzing user behavior and ad performance across platforms like Google, YouTube, and Google Display Network. Key metrics such as clicks, conversions, cost, impressions, and interactions are tracked and segmented by ad group type, ad platform, and campaign dates. Custom filters, including final_url and ad_account_id, enable detailed breakdowns of user acquisition and page engagement. Ad metrics like ad_metrics.clicks, ad_metrics.conversions, ad_metrics.cost, and ad_metrics.interactions provide actionable insights to enhance campaign effectiveness and optimize user journeys.
 
-#### Business Implication:
-High-performing stores like Store_A and Store_D can be used as benchmarks for best practices in staffing, layout, and inventory management.
-
-Expansion strategies may prioritize locations replicating demographics or operations of top stores.
-
-Underperforming stores (relative to their peers) should undergo a profitability and efficiency audit.
-### Revenue by Country
+### Ad Clicks per Ad_Platform
 ![Revenue by Country](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Revenue%20by%20Country.png)
-
 #### Analysis:
-The global sales distribution is diverse and competitive:
+Based on the results, Google Display Network had the highest total event count of 17 ad clicks, followed by Google with 16, and YouTube with 12 within the last 60 days. The Google Display Network (GDN) leading in total clicks suggests it may be reaching a broader audience and attracting higher user engagement compared to the other platforms. GDN typically serves display ads across millions of websites, apps, and videos, which could explain its higher event count. This type of ad format tends to perform well in generating visibility and clicks due to its visual nature, particularly in remarketing campaigns.
 
-USA is the top market with over $73,000 in revenue.
+Google follows closely with 16 clicks, which is expected given its dominant search engine presence. Google Ads (Search) generally captures intent-driven traffic, where users actively search for products or services, making it an essential channel for high-quality leads.
 
-India, Japan, and France represent key international contributors.
+YouTube, with 12 ad clicks, ranks third. Although it generates less immediate click-through than GDN or Google Search, it still plays a vital role in brand awareness and engagement, especially with video content. YouTube ads often generate deeper engagement and brand recall but may not always lead to immediate clicks compared to other ad formats.
 
-Emerging markets like Brazil, Mexico, and Australia show significant untapped potential.
+#### Implications:
+
+* **Refining Audience Targeting:**
+
+  * **Google Display Network**: Given its highest click count, further refine audience targeting by expanding to interest-based, behavioral, and lookalike audiences to reach a wider demographic and boost engagement.
+  * **Google Search**: Since Google Search Ads have a close click count, focus on narrowing down specific, long-tail search terms to capture more qualified leads, and incorporate negative keywords to filter irrelevant traffic.
+  * **YouTube**: With fewer clicks, improve targeting by leveraging in-market audiences and retargeting users who have previously interacted with your brand. Optimize video content with strong CTAs for better engagement.
+
+* **Optimizing Ad Formats and Placement:**
+
+  * **Google Display Network**: Given its higher clicks, experiment with different ad formats like responsive display ads and native ads to improve click-through rates (CTR) and engagement. Use remarketing to re-engage users who have interacted with your brand.
+  * **YouTube**: Focus on optimizing video ads to improve CTR. Test skippable ads for broader reach and non-skippable ads for better impact, focusing on short, engaging content to improve user interaction.
+
+* **Improve Campaign Scheduling:**
+
+  * Analyze the time of day and days of the week when Google Display Network and Google Ads get the highest click rates, and schedule ads to run during peak times for better user interaction.
+
+* **Tracking and Analyzing Performance:**
+
+  * Track **Cost Per Click (CPC)** and **Conversion Rate (CVR)** for each platform to measure performance. Allocate more budget to **Google Display Network** if traffic is high, and optimize landing pages or targeting for platforms like **YouTube** where the conversion rate is lower.
+
 
 #### Business Implication:
 Localized campaigns in the USA can yield immediate gains due to existing traction.
