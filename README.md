@@ -8,7 +8,7 @@ This project uses **Amplitude**, a leading **product analytics** tool, to optimi
 ![Data Ingestion (Connecting Google Ads Account](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Total%20Revenue%20Generated%20by%20Product.png)
 
 #### Process:
-The first step involved connecting my Google Adwords account with Amplitude. This step helped provide data on ad performance metrics, including clicks, conversions, cost, impressions, and interactions across different ad platforms like Google, YouTube, and Google Display Network. This data was crucial in analyzing user engagement and the effectiveness of each ad campaign, allowing for better optimization of ad spend and targeting strategies.
+The first step involved integrating my Google Ads account with Amplitude, enabling the collection of detailed ad performance metrics such as clicks, conversions, cost, impressions, and interactions across multiple ad platforms, including Google, YouTube, and Google Display Network. This integration provided vital data on user engagement, allowing for in-depth analysis of campaign effectiveness across various ad group types and targeting strategies. By leveraging this data, I was able to optimize ad spend, improve targeting accuracy, and refine campaign strategies to maximize conversions and overall ad performance.
 
 ### Marketing Analytics Settings
 ![Top-performing stores by revenue](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Top-Performing%20Stores%20by%20Revenue.png)
