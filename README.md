@@ -45,22 +45,35 @@ YouTube, with 12 ad clicks, ranks third. Although it generates less immediate cl
 
   * Track **Cost Per Click (CPC)** and **Conversion Rate (CVR)** for each platform to measure performance. Allocate more budget to **Google Display Network** if traffic is high, and optimize landing pages or targeting for platforms like **YouTube** where the conversion rate is lower.
 
-
-#### Business Implication:
-Localized campaigns in the USA can yield immediate gains due to existing traction.
-
-India and Japan should be considered for strategic expansion, especially given their revenue parity.
-
-Emerging markets like Brazil and Mexico might benefit from regional promotions or price-sensitive product variants.
+### AD Conversion Per Platform
 
 
-
-### Databrick job Runs
-
-
-# Total Units Sold by Product
+# AD Conversion Per Platform
 ![Total Units Sold](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Total_Units_Sold_by_Product%20run.png)
 
+
+The **Google Display Network** achieved the highest total of **17 ad clicks**, surpassing **Google** with **16** clicks and **YouTube** with **12** clicks over the past 60 days. This indicates that **Google Display Network** is effectively reaching a broad audience, likely through visually engaging display ads that attract more interactions. While **Google Search** ads follow closely, their higher intent-driven nature likely leads to a more targeted audience but slightly fewer interactions. **YouTube**, with its lower click count, may have a different goal—such as brand awareness—requiring more engagement strategies.
+
+### **Implications for Improving Google Ads Based on Clicks:**
+
+* **Refining Audience Targeting:**
+
+  * **Google Display Network**: Since it drives the most clicks, expand audience targeting by leveraging **interest-based**, **behavioral**, and **lookalike audiences**. Focus on optimizing **remarketing campaigns** to re-engage users who clicked but did not convert.
+  * **Google Search**: With slightly fewer clicks, refine keyword targeting to focus on **long-tail** terms and higher-conversion keywords. Adding **negative keywords** will help filter irrelevant clicks, improving click quality.
+  * **YouTube**: With fewer clicks, improve **targeting** by focusing on **in-market audiences** and **retargeting** users who have already interacted with your brand. Enhance engagement with **strong calls-to-action (CTAs)** in the video content to convert more views into clicks.
+
+* **Optimizing Ad Formats and Placement:**
+
+  * **Google Display Network**: Given its high click count, experiment with **responsive display ads** and **native ads** that blend with the content on websites. Consider varying **ad placements** to reach users across a broader network.
+  * **YouTube**: Optimize video content for higher engagement. Test **skippable video ads** for wider reach and **non-skippable ads** for more guaranteed impact. Focus on **short, engaging** video content to drive higher interaction.
+
+* **Improve Campaign Scheduling:**
+
+  * Analyze the specific times and days when the **Google Display Network** drives the most clicks, and schedule ads accordingly. This could help maximize user interaction and improve the efficiency of ad spend.
+
+* **Tracking and Analyzing Performance:**
+
+  * Monitor key metrics like **Cost Per Click (CPC)** and **Conversion Rate (CVR)** across platforms to ensure budget allocation aligns with performance. For example, if **Google Display Network** continues to drive high click counts but lower conversion rates, optimizing landing pages and targeting will be crucial to turning those clicks into more conversions. Conversely, for **YouTube**, improving ad engagement can lead to more clicks over time.
 
 ### Top-performing Stores by Revenue
 ![Top-performing Stores by Revenue](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Top-Performing_Stores_by_Revenue%20run.png)
