@@ -5,18 +5,23 @@ This project uses **Amplitude**, a leading **product analytics** tool, to optimi
 
 
 ### Data Ingestion
-![Data Ingestion (Connecting Google Ads Account](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Total%20Revenue%20Generated%20by%20Product.png)
+![Data Ingestion (Connecting Google Ads Account](https://github.com/lewis-hue/Google_Ads_Analytics/blob/main/Ingestion%20of%20data.png)
 
 #### Process:
 The first step involved integrating my Google Ads account with Amplitude, enabling the collection of detailed ad performance metrics such as clicks, conversions, cost, impressions, and interactions across multiple ad platforms, including Google, YouTube, and Google Display Network. This integration provided vital data on user engagement, allowing for in-depth analysis of campaign effectiveness across various ad group types and targeting strategies. By leveraging this data, I was able to optimize ad spend, improve targeting accuracy, and refine campaign strategies to maximize conversions and overall ad performance.
 
 ### Marketing Analytics Settings
-![Top-performing stores by revenue](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Top-Performing%20Stores%20by%20Revenue.png)
+![Marketing Analytics settings (Page View Event & Filters)](https://github.com/lewis-hue/Google_Ads_Analytics/blob/main/Marketing%20Analytics%20settings%20(Page%20View%20Event%20%26%20Filters).png)
+
+![Marketing Analytics settings (Breakdown)](https://github.com/lewis-hue/Google_Ads_Analytics/blob/main/Marketing%20Analytics%20settings%20(Breakdown).png)
+
+![Marketing Analytics settings (Ad Performance)](https://github.com/lewis-hue/Google_Ads_Analytics/blob/main/Marketing%20Analytics%20settings%20(Ad%20Performance).png)
+
 
 In this project, Amplitude’s marketing analytics settings are configured to optimize Google Ads campaigns by analyzing user behavior and ad performance across platforms like Google, YouTube, and Google Display Network. Key metrics such as clicks, conversions, cost, impressions, and interactions are tracked and segmented by ad group type, ad platform, and campaign dates. Custom filters, including final_url and ad_account_id, enable detailed breakdowns of user acquisition and page engagement. Ad metrics like ad_metrics.clicks, ad_metrics.conversions, ad_metrics.cost, and ad_metrics.interactions provide actionable insights to enhance campaign effectiveness and optimize user journeys.
 
 ### Ad Clicks per Ad_Platform
-![Revenue by Country](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Revenue%20by%20Country.png)
+![Ad Clicks per Ad_Platform](https://github.com/lewis-hue/Google_Ads_Analytics/blob/main/Ad%20Clicks%20per%20Ad_Platform.png)
 #### Analysis:
 Based on the results, Google Display Network had the highest total event count of 17 ad clicks, followed by Google with 16, and YouTube with 12 within the last 60 days. The Google Display Network (GDN) leading in total clicks suggests it may be reaching a broader audience and attracting higher user engagement compared to the other platforms. GDN typically serves display ads across millions of websites, apps, and videos, which could explain its higher event count. This type of ad format tends to perform well in generating visibility and clicks due to its visual nature, particularly in remarketing campaigns.
 
@@ -49,7 +54,7 @@ YouTube, with 12 ad clicks, ranks third. Although it generates less immediate cl
 
 
 #### AD Conversion Per Platform
-![Total Units Sold](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Total_Units_Sold_by_Product%20run.png)
+![AD Conversion Per Platform](https://github.com/lewis-hue/Google_Ads_Analytics/blob/main/AD%20Conversion%20Per%20Platform.png)
 
 
 The **Google Display Network** achieved the highest total of **17 ad clicks**, surpassing **Google** with **16** clicks and **YouTube** with **12** clicks over the past 60 days. This indicates that **Google Display Network** is effectively reaching a broad audience, likely through visually engaging display ads that attract more interactions. While **Google Search** ads follow closely, their higher intent-driven nature likely leads to a more targeted audience but slightly fewer interactions. **YouTube**, with its lower click count, may have a different goal—such as brand awareness—requiring more engagement strategies.
@@ -76,7 +81,7 @@ The **Google Display Network** achieved the highest total of **17 ad clicks**, s
   * Monitor key metrics like **Cost Per Click (CPC)** and **Conversion Rate (CVR)** across platforms to ensure budget allocation aligns with performance. For example, if **Google Display Network** continues to drive high click counts but lower conversion rates, optimizing landing pages and targeting will be crucial to turning those clicks into more conversions. Conversely, for **YouTube**, improving ad engagement can lead to more clicks over time.
 
 ### Advertising Costs per Platform
-![Top-performing Stores by Revenue](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Top-Performing_Stores_by_Revenue%20run.png)
+![Advertising Costs per Platform](https://github.com/lewis-hue/Google_Ads_Analytics/blob/main/Cost%20of%20Advertising%20for%20Different%20Ad%20Platforms.png)
 
 
 The **Google Display Network** had the highest advertising expenditure, totaling **\Ksh 4942.42**, followed by **Google** at **\Ksh 3989.38**, and **YouTube** at **\Ksh 3779.89**. The higher spend on **Google Display Network** indicates that it is being heavily utilized to reach a broader audience through display ads. Display campaigns often require a larger budget due to their wide reach and visual nature. **Google Search**, with its targeted intent-driven approach, had a slightly lower spend, but still represents a significant portion of the ad budget. **YouTube**, with its lower cost, suggests that it is being used for more specific campaign objectives like brand awareness or engagement, where the goal may not necessarily be immediate conversions.
@@ -106,7 +111,7 @@ The **Google Display Network** had the highest advertising expenditure, totaling
 By refining budget allocation, improving targeting, and optimizing ad formats, it’s possible to enhance overall campaign performance while minimizing unnecessary costs.
 
 ### Clicks Per Ad Group
-![Revenue by Country](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Revenue_by_Country%20run.png)
+![Clicks Per Ad Group](https://github.com/lewis-hue/Google_Ads_Analytics/blob/main/Clicks%20Per%20Ad%20Group.png)
 
 The findings reveal that Group_6 has the highest click rate at 16.1%, while Group_9 and Group_1 have the lowest at 6.9%. Since Group_6 is generating the highest click rate, it should be considered to expand its audience targeting to further capitalize on its success. On the other hand, Group_9 and Group_1, with lower click rates, should be optimized by refining targeting and creatives to boost engagement and improve click performance.
 
@@ -137,6 +142,7 @@ Group_6: Since Group_6 is generating the highest click rate, it should be consid
 Group_9 and Group_1: Since these groups are generating the lowest click rates, it should be considered to perform a deeper analysis on their performance metrics like CPC and Conversion Rates. Adjusting targeting or creative strategies to drive more cost-effective clicks could improve overall performance.
 
 ### Interactions Per Ad Group Type
+![Interactions Per Ad Group Type](https://github.com/lewis-hue/Google_Ads_Analytics/blob/main/Interactions%20Per%20Ad%20Group%20Type.png)
 
 Based on the findings, the Search ad group type had the highest total event count of 7 interactions, followed by both Video and Display with 4 interactions each within the last 60 days. This suggests that Search ads are performing the most effectively in terms of user engagement, likely due to the intent-driven nature of search queries. Users who search for specific products or services are generally more likely to engage and take action.
 
@@ -171,5 +177,5 @@ Monitor interaction rates for each ad type and adjust the budget allocation to r
 ### AD Conversion Per Platform (Dashboard)
 This is the dasboard prepared from the findings above.
 ### Sales Data Pipeline
-![Dashboard](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Sales%20Data%20Pipeline.png)
+![Dashboard](https://github.com/lewis-hue/Google_Ads_Analytics/blob/main/AD%20Conversion%20Per%20Platform%20(Dashboard).png)
 ```{r}
