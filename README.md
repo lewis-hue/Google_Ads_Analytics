@@ -176,6 +176,6 @@ Monitor interaction rates for each ad type and adjust the budget allocation to r
 
 ### AD Conversion Per Platform (Dashboard)
 This is the dasboard prepared from the findings above.
-### Sales Data Pipeline
+#### AD Conversion Per Platform (Dashboard)
 ![Dashboard](https://github.com/lewis-hue/Google_Ads_Analytics/blob/main/AD%20Conversion%20Per%20Platform%20(Dashboard).png)
 ```{r}
